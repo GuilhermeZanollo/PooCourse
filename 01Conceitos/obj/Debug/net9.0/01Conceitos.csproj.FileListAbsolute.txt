@@ -1,0 +1,14 @@
+C:\Projetos\OrientaçãoObjetos\01Conceitos\bin\Debug\net9.0\01Conceitos.exe
+C:\Projetos\OrientaçãoObjetos\01Conceitos\bin\Debug\net9.0\01Conceitos.deps.json
+C:\Projetos\OrientaçãoObjetos\01Conceitos\bin\Debug\net9.0\01Conceitos.runtimeconfig.json
+C:\Projetos\OrientaçãoObjetos\01Conceitos\bin\Debug\net9.0\01Conceitos.dll
+C:\Projetos\OrientaçãoObjetos\01Conceitos\bin\Debug\net9.0\01Conceitos.pdb
+C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\01Conceitos.AssemblyInfo.cs
+C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\01Conceitos.dll
+C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\refint\01Conceitos.dll
+C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\01Conceitos.pdb
+C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\01Conceitos.genruntimeconfig.cache
+C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\ref\01Conceitos.dll

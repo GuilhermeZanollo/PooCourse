@@ -1,0 +1,14 @@
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\04ExercícioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\04ExercícioIMC.AssemblyInfoInputs.cache
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\04ExercícioIMC.AssemblyInfo.cs
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\04ExercícioIMC.csproj.CoreCompileInputs.cache
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\bin\Debug\net9.0\04ExercícioIMC.exe
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\bin\Debug\net9.0\04ExercícioIMC.deps.json
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\bin\Debug\net9.0\04ExercícioIMC.runtimeconfig.json
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\bin\Debug\net9.0\04ExercícioIMC.dll
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\bin\Debug\net9.0\04ExercícioIMC.pdb
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\04ExercícioIMC.dll
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\refint\04ExercícioIMC.dll
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\04ExercícioIMC.pdb
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\04ExercícioIMC.genruntimeconfig.cache
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\ref\04ExercícioIMC.dll

@@ -1,0 +1,14 @@
+C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\07Construtor.AssemblyInfoInputs.cache
+C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\07Construtor.AssemblyInfo.cs
+C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\07Construtor.csproj.CoreCompileInputs.cache
+C:\Projetos\OrientaçãoObjetos\07Construtor\bin\Debug\net9.0\07Construtor.exe
+C:\Projetos\OrientaçãoObjetos\07Construtor\bin\Debug\net9.0\07Construtor.deps.json
+C:\Projetos\OrientaçãoObjetos\07Construtor\bin\Debug\net9.0\07Construtor.runtimeconfig.json
+C:\Projetos\OrientaçãoObjetos\07Construtor\bin\Debug\net9.0\07Construtor.dll
+C:\Projetos\OrientaçãoObjetos\07Construtor\bin\Debug\net9.0\07Construtor.pdb
+C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\07Construtor.dll
+C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\refint\07Construtor.dll
+C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\07Construtor.pdb
+C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\07Construtor.genruntimeconfig.cache
+C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\ref\07Construtor.dll

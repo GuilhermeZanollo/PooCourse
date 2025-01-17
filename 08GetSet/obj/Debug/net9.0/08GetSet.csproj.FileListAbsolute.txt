@@ -1,0 +1,14 @@
+C:\Projetos\OrientaçãoObjetos\08GetSet\bin\Debug\net9.0\08GetSet.exe
+C:\Projetos\OrientaçãoObjetos\08GetSet\bin\Debug\net9.0\08GetSet.deps.json
+C:\Projetos\OrientaçãoObjetos\08GetSet\bin\Debug\net9.0\08GetSet.runtimeconfig.json
+C:\Projetos\OrientaçãoObjetos\08GetSet\bin\Debug\net9.0\08GetSet.dll
+C:\Projetos\OrientaçãoObjetos\08GetSet\bin\Debug\net9.0\08GetSet.pdb
+C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\08GetSet.AssemblyInfoInputs.cache
+C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\08GetSet.AssemblyInfo.cs
+C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\08GetSet.csproj.CoreCompileInputs.cache
+C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\08GetSet.dll
+C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\refint\08GetSet.dll
+C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\08GetSet.pdb
+C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\08GetSet.genruntimeconfig.cache
+C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\ref\08GetSet.dll

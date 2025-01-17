@@ -1,0 +1,14 @@
+C:\Projetos\OrientaçãoObjetos\09This\bin\Debug\net9.0\09This.exe
+C:\Projetos\OrientaçãoObjetos\09This\bin\Debug\net9.0\09This.deps.json
+C:\Projetos\OrientaçãoObjetos\09This\bin\Debug\net9.0\09This.runtimeconfig.json
+C:\Projetos\OrientaçãoObjetos\09This\bin\Debug\net9.0\09This.dll
+C:\Projetos\OrientaçãoObjetos\09This\bin\Debug\net9.0\09This.pdb
+C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\09This.AssemblyInfoInputs.cache
+C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\09This.AssemblyInfo.cs
+C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\09This.csproj.CoreCompileInputs.cache
+C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\09This.dll
+C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\refint\09This.dll
+C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\09This.pdb
+C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\09This.genruntimeconfig.cache
+C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\ref\09This.dll

@@ -1,0 +1,14 @@
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\bin\Debug\net9.0\06Encapsulamento.exe
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\bin\Debug\net9.0\06Encapsulamento.deps.json
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\bin\Debug\net9.0\06Encapsulamento.runtimeconfig.json
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\bin\Debug\net9.0\06Encapsulamento.dll
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\bin\Debug\net9.0\06Encapsulamento.pdb
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.AssemblyInfo.cs
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.dll
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\refint\06Encapsulamento.dll
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.pdb
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.genruntimeconfig.cache
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\ref\06Encapsulamento.dll

@@ -1,0 +1,14 @@
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\03ExercícioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\03ExercícioEscolar.AssemblyInfoInputs.cache
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\03ExercícioEscolar.AssemblyInfo.cs
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\03ExercícioEscolar.csproj.CoreCompileInputs.cache
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\bin\Debug\net9.0\03ExercícioEscolar.exe
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\bin\Debug\net9.0\03ExercícioEscolar.deps.json
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\bin\Debug\net9.0\03ExercícioEscolar.runtimeconfig.json
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\bin\Debug\net9.0\03ExercícioEscolar.dll
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\bin\Debug\net9.0\03ExercícioEscolar.pdb
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\03ExercícioEscolar.dll
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\refint\03ExercícioEscolar.dll
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\03ExercícioEscolar.pdb
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\03ExercícioEscolar.genruntimeconfig.cache
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\ref\03ExercícioEscolar.dll
