@@ -12,3 +12,4 @@ C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\refint\08GetSet.dll
 C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\08GetSet.pdb
 C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\08GetSet.genruntimeconfig.cache
 C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\ref\08GetSet.dll
+C:\Projetos\OrientaçãoObjetos\08GetSet\obj\Debug\net9.0\08GetSet.sourcelink.json

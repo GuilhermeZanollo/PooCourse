@@ -12,3 +12,4 @@ C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\refint\03Ex
 C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\03ExercícioEscolar.pdb
 C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\03ExercícioEscolar.genruntimeconfig.cache
 C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\ref\03ExercícioEscolar.dll
+C:\Projetos\OrientaçãoObjetos\03ExercícioEscolar\obj\Debug\net9.0\03ExercícioEscolar.sourcelink.json

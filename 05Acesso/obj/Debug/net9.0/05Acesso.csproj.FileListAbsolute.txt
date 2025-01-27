@@ -12,3 +12,4 @@ C:\Projetos\OrientaçãoObjetos\05Acesso\obj\Debug\net9.0\refint\05Acesso.dll
 C:\Projetos\OrientaçãoObjetos\05Acesso\obj\Debug\net9.0\05Acesso.pdb
 C:\Projetos\OrientaçãoObjetos\05Acesso\obj\Debug\net9.0\05Acesso.genruntimeconfig.cache
 C:\Projetos\OrientaçãoObjetos\05Acesso\obj\Debug\net9.0\ref\05Acesso.dll
+C:\Projetos\OrientaçãoObjetos\05Acesso\obj\Debug\net9.0\05Acesso.sourcelink.json

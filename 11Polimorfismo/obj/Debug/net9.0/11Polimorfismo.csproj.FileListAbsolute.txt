@@ -12,3 +12,4 @@ C:\Projetos\OrientaçãoObjetos\11Polimorfismo\obj\Debug\net9.0\refint\11Polimor
 C:\Projetos\OrientaçãoObjetos\11Polimorfismo\obj\Debug\net9.0\11Polimorfismo.pdb
 C:\Projetos\OrientaçãoObjetos\11Polimorfismo\obj\Debug\net9.0\11Polimorfismo.genruntimeconfig.cache
 C:\Projetos\OrientaçãoObjetos\11Polimorfismo\obj\Debug\net9.0\ref\11Polimorfismo.dll
+C:\Projetos\OrientaçãoObjetos\11Polimorfismo\obj\Debug\net9.0\11Polimorfismo.sourcelink.json

@@ -12,3 +12,4 @@ C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\refint\09This.dll
 C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\09This.pdb
 C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\09This.genruntimeconfig.cache
 C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\ref\09This.dll
+C:\Projetos\OrientaçãoObjetos\09This\obj\Debug\net9.0\09This.sourcelink.json

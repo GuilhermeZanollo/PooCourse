@@ -12,3 +12,4 @@ C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\refint\04Exerc�
 C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\04ExercícioIMC.pdb
 C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\04ExercícioIMC.genruntimeconfig.cache
 C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\ref\04ExercícioIMC.dll
+C:\Projetos\OrientaçãoObjetos\04ExercícioIMC\obj\Debug\net9.0\04ExercícioIMC.sourcelink.json

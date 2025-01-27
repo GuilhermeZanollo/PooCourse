@@ -1,0 +1,15 @@
+C:\Projetos\OrientaçãoObjetos\13Abstração\obj\Debug\net9.0\13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\OrientaçãoObjetos\13Abstração\obj\Debug\net9.0\13Abstração.AssemblyInfoInputs.cache
+C:\Projetos\OrientaçãoObjetos\13Abstração\obj\Debug\net9.0\13Abstração.AssemblyInfo.cs
+C:\Projetos\OrientaçãoObjetos\13Abstração\obj\Debug\net9.0\13Abstração.csproj.CoreCompileInputs.cache
+C:\Projetos\OrientaçãoObjetos\13Abstração\obj\Debug\net9.0\13Abstração.sourcelink.json
+C:\Projetos\OrientaçãoObjetos\13Abstração\bin\Debug\net9.0\13Abstração.exe
+C:\Projetos\OrientaçãoObjetos\13Abstração\bin\Debug\net9.0\13Abstração.deps.json
+C:\Projetos\OrientaçãoObjetos\13Abstração\bin\Debug\net9.0\13Abstração.runtimeconfig.json
+C:\Projetos\OrientaçãoObjetos\13Abstração\bin\Debug\net9.0\13Abstração.dll
+C:\Projetos\OrientaçãoObjetos\13Abstração\bin\Debug\net9.0\13Abstração.pdb
+C:\Projetos\OrientaçãoObjetos\13Abstração\obj\Debug\net9.0\13Abstração.dll
+C:\Projetos\OrientaçãoObjetos\13Abstração\obj\Debug\net9.0\refint\13Abstração.dll
+C:\Projetos\OrientaçãoObjetos\13Abstração\obj\Debug\net9.0\13Abstração.pdb
+C:\Projetos\OrientaçãoObjetos\13Abstração\obj\Debug\net9.0\13Abstração.genruntimeconfig.cache
+C:\Projetos\OrientaçãoObjetos\13Abstração\obj\Debug\net9.0\ref\13Abstração.dll

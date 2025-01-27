@@ -12,3 +12,4 @@ C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\refint\06Encap
 C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.pdb
 C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.genruntimeconfig.cache
 C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\ref\06Encapsulamento.dll
+C:\Projetos\OrientaçãoObjetos\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.sourcelink.json

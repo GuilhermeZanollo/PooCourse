@@ -12,3 +12,4 @@ C:\Projetos\OrientaçãoObjetos\10Herança\obj\Debug\net9.0\refint\10Herança.dl
 C:\Projetos\OrientaçãoObjetos\10Herança\obj\Debug\net9.0\10Herança.pdb
 C:\Projetos\OrientaçãoObjetos\10Herança\obj\Debug\net9.0\10Herança.genruntimeconfig.cache
 C:\Projetos\OrientaçãoObjetos\10Herança\obj\Debug\net9.0\ref\10Herança.dll
+C:\Projetos\OrientaçãoObjetos\10Herança\obj\Debug\net9.0\10Herança.sourcelink.json

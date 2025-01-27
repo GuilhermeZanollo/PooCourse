@@ -12,3 +12,4 @@ C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\refint\07Construto
 C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\07Construtor.pdb
 C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\07Construtor.genruntimeconfig.cache
 C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\ref\07Construtor.dll
+C:\Projetos\OrientaçãoObjetos\07Construtor\obj\Debug\net9.0\07Construtor.sourcelink.json

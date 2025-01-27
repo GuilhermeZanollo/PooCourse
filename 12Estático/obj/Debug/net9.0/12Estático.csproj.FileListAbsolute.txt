@@ -1,0 +1,15 @@
+C:\Projetos\OrientaçãoObjetos\12Estático\bin\Debug\net9.0\12Estático.exe
+C:\Projetos\OrientaçãoObjetos\12Estático\bin\Debug\net9.0\12Estático.deps.json
+C:\Projetos\OrientaçãoObjetos\12Estático\bin\Debug\net9.0\12Estático.runtimeconfig.json
+C:\Projetos\OrientaçãoObjetos\12Estático\bin\Debug\net9.0\12Estático.dll
+C:\Projetos\OrientaçãoObjetos\12Estático\bin\Debug\net9.0\12Estático.pdb
+C:\Projetos\OrientaçãoObjetos\12Estático\obj\Debug\net9.0\12Estático.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\OrientaçãoObjetos\12Estático\obj\Debug\net9.0\12Estático.AssemblyInfoInputs.cache
+C:\Projetos\OrientaçãoObjetos\12Estático\obj\Debug\net9.0\12Estático.AssemblyInfo.cs
+C:\Projetos\OrientaçãoObjetos\12Estático\obj\Debug\net9.0\12Estático.csproj.CoreCompileInputs.cache
+C:\Projetos\OrientaçãoObjetos\12Estático\obj\Debug\net9.0\12Estático.sourcelink.json
+C:\Projetos\OrientaçãoObjetos\12Estático\obj\Debug\net9.0\12Estático.dll
+C:\Projetos\OrientaçãoObjetos\12Estático\obj\Debug\net9.0\refint\12Estático.dll
+C:\Projetos\OrientaçãoObjetos\12Estático\obj\Debug\net9.0\12Estático.pdb
+C:\Projetos\OrientaçãoObjetos\12Estático\obj\Debug\net9.0\12Estático.genruntimeconfig.cache
+C:\Projetos\OrientaçãoObjetos\12Estático\obj\Debug\net9.0\ref\12Estático.dll

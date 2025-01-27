@@ -12,3 +12,4 @@ C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\refint\01Conceitos.
 C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\01Conceitos.pdb
 C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\01Conceitos.genruntimeconfig.cache
 C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\ref\01Conceitos.dll
+C:\Projetos\OrientaçãoObjetos\01Conceitos\obj\Debug\net9.0\01Conceitos.sourcelink.json
