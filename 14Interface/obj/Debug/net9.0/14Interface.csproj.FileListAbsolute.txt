@@ -1,0 +1,15 @@
+C:\Projetos\OrientaçãoObjetos\14Interface\bin\Debug\net9.0\14Interface.exe
+C:\Projetos\OrientaçãoObjetos\14Interface\bin\Debug\net9.0\14Interface.deps.json
+C:\Projetos\OrientaçãoObjetos\14Interface\bin\Debug\net9.0\14Interface.runtimeconfig.json
+C:\Projetos\OrientaçãoObjetos\14Interface\bin\Debug\net9.0\14Interface.dll
+C:\Projetos\OrientaçãoObjetos\14Interface\bin\Debug\net9.0\14Interface.pdb
+C:\Projetos\OrientaçãoObjetos\14Interface\obj\Debug\net9.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\OrientaçãoObjetos\14Interface\obj\Debug\net9.0\14Interface.AssemblyInfoInputs.cache
+C:\Projetos\OrientaçãoObjetos\14Interface\obj\Debug\net9.0\14Interface.AssemblyInfo.cs
+C:\Projetos\OrientaçãoObjetos\14Interface\obj\Debug\net9.0\14Interface.csproj.CoreCompileInputs.cache
+C:\Projetos\OrientaçãoObjetos\14Interface\obj\Debug\net9.0\14Interface.sourcelink.json
+C:\Projetos\OrientaçãoObjetos\14Interface\obj\Debug\net9.0\14Interface.dll
+C:\Projetos\OrientaçãoObjetos\14Interface\obj\Debug\net9.0\refint\14Interface.dll
+C:\Projetos\OrientaçãoObjetos\14Interface\obj\Debug\net9.0\14Interface.pdb
+C:\Projetos\OrientaçãoObjetos\14Interface\obj\Debug\net9.0\14Interface.genruntimeconfig.cache
+C:\Projetos\OrientaçãoObjetos\14Interface\obj\Debug\net9.0\ref\14Interface.dll
